@@ -1,6 +1,6 @@
 Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` source code.
 
-# Boarding Methods
+# Scenarios
 
 All the simulations below have been performed using the luggage situation **S4**, described in our paper.
 
