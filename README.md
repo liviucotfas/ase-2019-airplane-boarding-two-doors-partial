@@ -2,7 +2,7 @@ Please feel free to contact us at liviu.cotfas at ase .ro for the `NetLogo` sour
 
 # Scenarios
 
-All the simulations below have been performed using the luggage situation **S4**, described in our paper.
+All the simulations have been performed using the luggage situation **S4**, described in our paper.
 
 > Suggestion: You can download the animations below in order to watch them at a higher resolution.
 
